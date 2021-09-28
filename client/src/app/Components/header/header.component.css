@@ -1,0 +1,24 @@
+.btn{
+    margin-left: 20px;
+    background-color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+.navbar-brand{
+    font-size: 1.8rem;
+    font-family: 'Calibri';
+    margin-right: 60px;
+}
+
+.nav-link{
+    font-family: 'Calibri';
+    font-size: 20px;
+    color:white;
+}
+i,.icon-cog{
+    color:white;
+}
+.navbar-custom{
+    background-color: dark;
+}
